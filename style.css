@@ -115,7 +115,7 @@ main {
 #middle-1 {
   background-color: black;
   color: white;
-  border: solid black 2px;
+  border: solid white 10px;
   height: 25%;
   padding: 35px;
 }
@@ -123,7 +123,7 @@ main {
 #middle-2 {
   background-color: black;
   color: white;
-  border: solid black 2px;
+  border: solid white 10px;
   height: 25%;
   padding: 35px;
 }
@@ -131,15 +131,41 @@ main {
 #middle-3 {
   background-color: black;
   color: white;
-  border: solid black 2px;
+  border: solid white 10px;
   height: 25%;
   padding: 35px;
 }
 
+.bottom-box{
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
 
+#bottom-1 {
+  background-color: black;
+  color: white;
+  border: solid white 10px;
+  height: 25%;
+  padding: 35px;
+}
 
+#bottom-2 {
+  background-color: black;
+  color: white;
+  border: solid white 10px;
+  height: 25%;
+  padding: 35px;
+}
 
-
+#bottom-3 {
+  background-color: black;
+  color: white;
+  border: solid white 10px;
+  height: 25%;
+  padding: 35px;
+}
 
 
 
